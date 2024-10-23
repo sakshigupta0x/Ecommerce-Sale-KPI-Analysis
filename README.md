@@ -1,12 +1,12 @@
 # Ecommerce-Sale-KPI-Analysis
-n today's data-driven business environment, understanding sales performance is crucial for informed decision-making. This project focuses on the analysis of sales data using SQL and Tableau, aiming to create an interactive dashboard that effectively tracks key performance indicators (KPIs).
+In today's data-driven business environment, understanding sales performance is crucial for informed decision-making. This project focuses on the analysis of sales data using SQL and Tableau, aiming to create an interactive dashboard that effectively tracks key performance indicators (KPIs).
 
 ## Contents
 * [Tableau Dashboard Snapshot](#tableau-dashboard-snapshot)
 * [Insights](#insights)
 
 ## Tableau Dashboard Snapshot
-[Link to Tableau Dashboard](https://public.tableau.com/app/profile/sakshi.gupta3961/viz/EcommerceSalesAnalysis_17294300484700/MarketDashboard)
+Interact with the dashboard[here!](https://public.tableau.com/app/profile/sakshi.gupta3961/viz/EcommerceSalesAnalysis_17294300484700/MarketDashboard)
 
 ![Sales Dashboard](https://github.com/user-attachments/assets/a939d0db-0d98-4ae4-803f-1c1a4a69afd6)
 
