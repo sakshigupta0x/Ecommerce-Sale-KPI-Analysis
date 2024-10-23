@@ -6,7 +6,7 @@ In today's data-driven business environment, understanding sales performance is 
 * [Insights](#insights)
 
 ## Tableau Dashboard Snapshot
-Interact with the dashboard[here!](https://public.tableau.com/app/profile/sakshi.gupta3961/viz/EcommerceSalesAnalysis_17294300484700/MarketDashboard)
+Interact with the dashboard [here!](https://public.tableau.com/app/profile/sakshi.gupta3961/viz/EcommerceSalesAnalysis_17294300484700/MarketDashboard)
 
 ![Sales Dashboard](https://github.com/user-attachments/assets/a939d0db-0d98-4ae4-803f-1c1a4a69afd6)
 
